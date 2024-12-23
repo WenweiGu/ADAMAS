@@ -7,8 +7,7 @@ Here is the public repository for our paper, "ADAMAS: Adaptive Domain-Aware Perf
 ## Overview
 
 The following figure shows an overview of our ADAMAS framework, an adaptive performance anomaly detection framework incorporating domain knowledge. 
-
-![BOARD](https://github.com/ICSE25-Submission/BOARD/assets/83080529/a8bec5c3-45f5-46bc-88f5-5aa7ea7be83d)
+![ADAMAS](https://github.com/user-attachments/assets/cb0a69d5-8164-4e68-9564-c2ffd937a607)
 
 ## Datasets
 
