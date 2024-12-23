@@ -2,17 +2,17 @@
 ![](https://img.shields.io/badge/version-1.0-blue.svg) 
 ![](https://img.shields.io/badge/language-python-orange.svg)
 
-Here is the repository for the ICSE25 submission "ADAMAS: Adaptive Domain-Aware Performance Anomaly Detection in Cloud Service Systems". 
+Here is the public repository for our paper, "ADAMAS: Adaptive Domain-Aware Performance Anomaly Detection in Cloud Service Systems," which was accepted by ICSE 2025, Research Track. In this paper, we propose an adaptive and domain knowledge-aware approach to detecting performance anomalies in different services.
 
 ## Overview
 
-The following figure shows the overview of our framework ADAMAS, an adaptive performance anomaly detection framework incorporated with domain knowledge. 
+The following figure shows an overview of our ADAMAS framework, an adaptive performance anomaly detection framework incorporating domain knowledge. 
 
 ![BOARD](https://github.com/ICSE25-Submission/BOARD/assets/83080529/a8bec5c3-45f5-46bc-88f5-5aa7ea7be83d)
 
 ## Datasets
 
-We only put one sample of our industrial dataset and AIOps18 dataset here (due to the limit of space). However, upon acceptance of this work, we will release all datasets used in our study, including raw data and all labels, and any other relevant materials necessary for replication and analysis of our findings.
+Due to Huawei Cloud's privacy policy, we can only release a portion of the datasets used in our study.
 
 ## Requirements
 
